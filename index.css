@@ -43,6 +43,7 @@ button {
 #save-btn {
     color: #001d3d;
     background: #D2EEF4;
+    border: solid 1px #001d3d;
 
 }
 
