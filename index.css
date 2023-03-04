@@ -1,0 +1,69 @@
+body {
+    background-image: url("water.2.jpg");
+    background-size: cover;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    margin: 120px;
+}
+
+
+h1 {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #001d3d;
+
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #001d3d;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+}
+
+#increment-btn {
+    background: #001d3d;
+    
+}
+
+#save-btn {
+    color: #001d3d;
+    background: #D2EEF4;
+
+}
+
+.hero {
+    
+}
+
+.card {
+    margin: 20px;
+    background: #D3E3F2;
+    padding: 8px 20px;
+    border-radius: 8px;
+   
+    
+}
+
+#increment-btn:hover {
+  background-color: #053972; 
+  color: white;
+}
+
+#save-btn:hover {
+    background-color: #91D9E5;
+}
